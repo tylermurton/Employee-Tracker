@@ -1,7 +1,7 @@
 ////////// DEPENDINCIES 
 const inquirer = require('inquirer');
 const mysql = require('mysql');
-const printTable = require('console.table');
+const { printTable } = require('console-table-printer');
 const { async } = require('rxjs/internal/scheduler/async');
 
 /////////// CREATE VARS AND ARRAYS

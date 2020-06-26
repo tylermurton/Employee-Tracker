@@ -2,10 +2,10 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tylermurton/Employee-Tracker#readme",
   "dependencies": {
-    "console.table": "^0.10.0",
+    "console-table-printer": "^1.6.0",
     "inquirer": "^7.2.0",
     "mysql": "^2.18.1"
   }
