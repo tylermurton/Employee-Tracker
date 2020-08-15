@@ -20,7 +20,7 @@ https://youtu.be/6hmlwuU-suU
 
 ## Installation
 ```
-npm i sql, npm i inquirer, npm i console-table-printer
+npm i sql inquirer console-table-printer
 ```
 
 ## Usage
